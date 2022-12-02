@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Devsecops CourseDeepali test course for devops</title>
+    <title>Deepali test </title>
 
 
     <!-- Custom styles for this template -->
